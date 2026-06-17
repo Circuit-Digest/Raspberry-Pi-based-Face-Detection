@@ -68,6 +68,12 @@ Face detection is a powerful technology used in security, surveillance, attendan
 | Supports both manual (keyboard) and automatic capture modes | Cloud API usage may have daily or monthly limits |
 | Useful for security, attendance, and crowd surveillance | Slight delay may occur due to network transmission |
 
+## Link For the Full Guide
+
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-face-detection-using-circuitdigest-cloud
+
+---
+
 ## Relevant Links
 - [CircuitDigest Cloud Platform](https://www.circuitdigest.cloud/)
 - [Raspberry Pi based Face Detection GitHub Repo](https://github.com/Circuit-Digest/Raspberry-Pi-based-Face-Detection)
